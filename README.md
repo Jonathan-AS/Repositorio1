@@ -1,4 +1,4 @@
 # EstructuraWeb
 
-Mi primer repositorio
+Mi primer repositorio aprendiendo GIT
 
